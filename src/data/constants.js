@@ -210,7 +210,7 @@ export const projects = [
     description:
       "Stay up-to-date with NewsRoom, the ultimate news app built on the powerful MERN stack. Enjoy real-time updates, personalized news feeds, and in-depth analysis all in a sleek, user-friendly interface. Never miss a story with NewsRoom—your gateway to the world’s news.",
     image:
-      "https://private-user-images.githubusercontent.com/133972322/348352054-8e6d7a60-ebb8-48c2-ba9a-f623716b62c0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4MDY1NzcsIm5iZiI6MTcyMDgwNjI3NywicGF0aCI6Ii8xMzM5NzIzMjIvMzQ4MzUyMDU0LThlNmQ3YTYwLWViYjgtNDhjMi1iYTlhLWY2MjM3MTZiNjJjMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxMlQxNzQ0MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ODM4NDg1NjNjNmNmZDA5MTAzYTAzMGNjNmExNGUxZWU3MzJhYTk1NTAzN2MzMTdkZWFhODI0NjliYTNhM2ZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-cb24fTmOrJWDZCXrP7KGbi_3oAJ0uBlB7EaA7OGSoI",
+      "https://github.com/user-attachments/assets/8e6d7a60-ebb8-48c2-ba9a-f623716b62c0",
     tags: [
       "React Js",
       "Bootstrap",
