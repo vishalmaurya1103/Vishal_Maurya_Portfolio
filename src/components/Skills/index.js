@@ -52,6 +52,7 @@ const SkillsContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-top: 30px;
+  margin-bottom: 60px; 
   gap: 30px;
   justify-content: center;
 `
@@ -72,8 +73,7 @@ const Skill = styled.div`
     max-width: 330px;
     padding: 10px 36px;
   }
-
-
+  margin-bottom: 30px;
 `
 
 const SkillTitle = styled.h2`
@@ -124,7 +124,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 2 years.
+        <Desc>Here are some skills I'm really good at.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
